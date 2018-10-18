@@ -5,6 +5,6 @@
 
 №|Описание|Ссылка на работу
 ---|:------:|---:
-**1**|Домашнее задание №1|*https://github.com/marina35702/python-dh-hw/blob/master/HW1.ipynb*
+1|Домашнее задание №1|*https://github.com/marina35702/python-dh-hw/blob/master/HW1.ipynb*
 **2**||
 **3**||
